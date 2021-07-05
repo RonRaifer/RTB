@@ -48,10 +48,10 @@ This section will guide you and explain how to run the app in each mode.
 
 Via terminal (in IDE/cmd), enter the following:
 ```sh 
-uvicorn main:app --reload 
+$   uvicorn main:app --reload 
 ```
 
-Next, open your browser (or Insomnia), and go to:
+Next, open your browser (or Insomnia), and navigate to:
 ```sh 
 http://127.0.0.1:8000
 ```
