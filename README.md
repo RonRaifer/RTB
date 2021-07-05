@@ -42,7 +42,7 @@ This section will guide you and explain how to run the app in each mode.
 - Open Insomnia, and add GET requests as your wish.
 - Now tick the 'Send' button, and review the response.
 - Example "degifted" below
-
+[e](guide_files/how_to_debug.gif)
 
 #### !Run mode
 
