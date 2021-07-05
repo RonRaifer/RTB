@@ -19,7 +19,7 @@ RTB uses a number of open source projects to work properly:
 
 This project requires [Python](https://www.python.org/) v3.6+ to run.
 
-Clone project or either download the whole zip:
+Clone the project or download it directly:
 ```sh
 $   git clone https://github.com/ronraifer/RTB.git
 $   cd RTB
