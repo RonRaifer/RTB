@@ -2,7 +2,6 @@
 ## _Given By [Start.io](https://start.io/)_
 A little explanation
 
-[TOC]
 
 ## Tech
 
