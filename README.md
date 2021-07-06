@@ -23,7 +23,7 @@ This project requires [Python](https://www.python.org/) v3.6+ to run.
 
 Clone the project or download it directly:
 ```bash
-git clone https://github.com/ronraifer/RTB.git
+git clone https://github.com/RonRaifer/RTB.git
 cd RTB
 ```
 
