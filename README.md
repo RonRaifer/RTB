@@ -1,6 +1,9 @@
 # RTB Task, Ron Raifer.
 ## _Given By [Start.io](https://start.io/)_
-A little explanation
+This assignment was given to me by Start.io, to test my capabilities.
+I asked to implement a service that loads the given csv files and serves REST API requests.
+During the implementation, I reviewed the given data and looked for the most relevant tools to accomplish the best results. It was a great opportunity to learn new technologies!.  
+
 
 
 ## Tech
@@ -83,7 +86,7 @@ http://127.0.0.1:8000/docs
 [Redis](https://redis.io/) might a good idea to use. 
 
 It is possible to keep the Pivots data in Redis. By that, the data is loaded into the Cache, and we can use it as a key value storage. 
-This can help us to just maintain the data in Real-Time, instead of loading the data each time (locally).
+This allows us to maintain the data in Real-Time, instead of loading the whole data each time (locally).
 
 ## Contact Info
 Mail me: ronraifer@gmail.com
