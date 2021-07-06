@@ -4,7 +4,6 @@ This assignment was given to me by Start.io, to test my capabilities.\
 I have been asked to implement a service which loads the given csv files and serves REST API requests.\
 During the implementation, I reviewed the given data and looked for the most relevant tools to accomplish the best results. It was a great opportunity to learn new technologies!.  
 
-[TOC]
 
 ## Tech
 
