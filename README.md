@@ -35,11 +35,11 @@ Install the dependencies, using [pip](https://pypi.org/project/pip/), via runnin
 RTB Application works in two ways: running `main.py`, or via terminal using `uvicorn`.
 This section will guide you and explain how to run the app in each mode.
 
-#### !Run `main.py`
+#### !Run\Debug `main.py`
 
 - Make sure you have [Insomnia](https://insomnia.rest/) or equivalent.
-- Next, throught your IDE or CMD, run ``main.py``
-- The API be now reachable throught ``http://127.0.0.1:8000``
+- Next, through your IDE or CMD, run ``main.py``
+- The API is now reachable through ``http://127.0.0.1:8000``
 - Open Insomnia, and add GET requests as your wish.
 - Now tick the 'Send' button, and review the response.
 - Example "degifted" below
@@ -64,6 +64,14 @@ http://127.0.0.1:8000/keepalive
 http://127.0.0.1:8000/userStats/?user_id=YOUR_USER_ID
 http://127.0.0.1:8000/sessionId/?session_id=YOUR_SESSION_ID
 ```
+
+## Swagger
+
+To access the interactive API documentation, make sure the app is running, and then navigate to:
+```bash 
+http://127.0.0.1:8000/docs
+```
+![how_to_docs](guide_files/how_to_docs.gif)
 
 ## Further Improvements
 What to improve
