@@ -74,8 +74,14 @@ http://127.0.0.1:8000/docs
 ![how_to_docs](guide_files/how_to_docs.gif)
 
 ## Further Improvements
-What to improve
 
+#### Tests
+Add more test cases, such as wrong file format/data. Test the session data.
+
+#### Tech
+[Redis](https://redis.io/) might a good idea to use. 
+It is possible to keep the Pivots data in Redis. By that, the data is loaded into the Cache, and we can use it as a key value storage. 
+This can help us to just maintain the data in Real-Time, instead of loading the data each time (locally).
 
 ## Contact Info
 Mail me: ronraifer@gmail.com
