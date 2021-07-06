@@ -20,14 +20,14 @@ RTB uses a number of open source projects to work properly:
 This project requires [Python](https://www.python.org/) v3.6+ to run.
 
 Clone the project or download it directly:
-```sh
-$   git clone https://github.com/ronraifer/RTB.git
-$   cd RTB
+```bash
+git clone https://github.com/ronraifer/RTB.git
+cd RTB
 ```
 
-Install the dependencies via running the next command:
-```sh
-$   pip install -r requirements.txt
+Install the dependencies, using [pip](https://pypi.org/project/pip/), via running the next command:
+```bash
+ pip install -r requirements.txt
 ```
 
 ## Running the App
@@ -49,17 +49,17 @@ This section will guide you and explain how to run the app in each mode.
 #### !Run Via Terminal
 
 Via terminal (IDE/cmd), enter the following:
-```sh 
-$   uvicorn main:app --reload 
+```bash 
+uvicorn main:app --reload 
 ```
 
 Next, open your browser (or Insomnia), and navigate to:
-```sh 
+```bash 
 http://127.0.0.1:8000
 ```
 
 Then, navigate to the desired request, with the relevant arguments:
-```sh 
+```bash 
 http://127.0.0.1:8000/keepalive
 http://127.0.0.1:8000/userStats/?user_id=YOUR_USER_ID
 http://127.0.0.1:8000/sessionId/?session_id=YOUR_SESSION_ID
