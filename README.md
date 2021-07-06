@@ -1,6 +1,6 @@
 # RTB Task, Ron Raifer.
 ## _Given By [Start.io](https://start.io/)_
-This assignment was given to me by Start.io, to test my capabilities.
+This assignment was given to me by Start.io, to test my capabilities.\
 I asked to implement a service that loads the given csv files and serves REST API requests.
 During the implementation, I reviewed the given data and looked for the most relevant tools to accomplish the best results. It was a great opportunity to learn new technologies!.  
 
