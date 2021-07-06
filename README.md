@@ -82,7 +82,7 @@ http://127.0.0.1:8000/docs
 - Add tests to the session data.
 
 #### Tech
-[Redis](https://redis.io/) might a good idea to use. 
+[Redis](https://redis.io/) might be a good idea to use. 
 
 It is possible to keep the Pivots data in Redis. By that, the data is loaded into the Cache, and we can use it as a key value storage. 
 This allows us to maintain the data in Real-Time, instead of loading the whole data each time (locally).
