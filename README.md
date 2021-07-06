@@ -76,7 +76,8 @@ http://127.0.0.1:8000/docs
 ## Further Improvements
 
 #### Tests
-Add more test cases, such as wrong file format/data. Test the session data.
+- Add more test cases to cover all the possibilities. 
+- Add tests to the session data.
 
 #### Tech
 [Redis](https://redis.io/) might a good idea to use. 
